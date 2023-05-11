@@ -4,7 +4,7 @@
   <!-- /.login-logo -->
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <a href="#" class="h1"><b>Arunachalac </b> College</a>
+      <a href="#" class="h1"><b>RND HuB </b> Service</a>
     </div>
     <div class="card-body">
 
